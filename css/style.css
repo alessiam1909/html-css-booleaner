@@ -39,3 +39,36 @@ h1 {
 mark {
     background-color: yellow;
 }
+
+#listaNonOrdinata {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+td, th {
+    text-align: left;
+}
+
+#intestazioneTabella {
+    background-color: rgb(10, 181, 248);
+    color: white;
+}
+
+.rigaAzzurra {
+    background-color: lightblue;
+}
+
+.rigaGrigia {
+    background-color: lightgray;
+}
+
+.cellePrimaColonna,.celleSecondaColonna {
+    padding: 5px;
+    padding-right: 50px;
+
+}
